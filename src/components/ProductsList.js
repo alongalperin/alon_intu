@@ -3,6 +3,7 @@ import Product from './Product';
 import Loader from './Loader';
 
 const renderProductsList = (state, products) => {
+  console.log('render: ', products.length);
   switch (state) {
     case STATES_NAMES.IDLE:
       return <p>Products list is waiting for click loading</p>;

@@ -15,7 +15,8 @@
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
-    "start": "react-scripts start",
+    "start": "cross-env REACT_APP_ENVIRONMENT=development react-scripts start",
+    "start-mirage": "cross-env REACT_APP_ENVIRONMENT=mirage react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
@@ -40,6 +41,8 @@
   },
   "devDependencies": {
     "@testing-library/react-hooks": "^8.0.1",
-    "gh-pages": "^6.1.1"
+    "cross-env": "^7.0.3",
+    "gh-pages": "^6.1.1",
+    "miragejs": "^0.1.48"
   }
 }

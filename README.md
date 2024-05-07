@@ -5,7 +5,7 @@ Created this project using create-react-app
 On Github pages  
 https://alongalperin.github.io/alon_intu/
 
-how to run?
+How to run?
 
 1. install dependencies
    ```
@@ -16,7 +16,13 @@ how to run?
    npm start
    ```
 
-how to run tests?
+How to run with backend-mock?  
+Mock using MirageJS
+```
+npm run start-mirage
+```
+
+How to run tests?
 
 ```
 npm run test
