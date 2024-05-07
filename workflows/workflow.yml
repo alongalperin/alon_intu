@@ -17,7 +17,7 @@ jobs:
 
       - name: Install and Build 🔧 # The Project is built using npm and outputs the result to the 'build' folder. Replace with the commands required to build your project, or remove this step entirely if your site is pre-built.
         run: |
-          npm install --legacy-peer-deps # TODO: Fix
+          npm install --legacy-peer-deps # TODO: Fix versions and remove legacy flag
           npm run build
 
       - name: Deploy 🚀
