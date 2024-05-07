@@ -6,7 +6,7 @@ import reportWebVitals from './reportWebVitals';
 import { setupMirage } from './mirageSetup';
 
 const environment = process.env.REACT_APP_ENVIRONMENT;
-console.log({ environment });
+
 if (environment === 'mirage') {
   setupMirage({ environment });
 }
