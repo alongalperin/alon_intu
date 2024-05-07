@@ -29,11 +29,11 @@ Things to improve?
 - Using MirageJS for backend mock
 - Use better api images
 
-State Machine explanation
+#### State Machine explanation
 
 ![alt State Machine Arrows](https://github.com/alongalperin/alon_intu/blob/main/images/state_machine.png)
 
-<u>Credits</u>  
+#### Credits  
 - Github action deploy React application  
 https://github.com/JamesIves/github-pages-deploy-action  
 https://youtu.be/5I37iVCDUTU?si=1jU738QBsp4t3ASC
