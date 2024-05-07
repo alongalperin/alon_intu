@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/alon_intu/static/css/main.977ed551.css",
-    "main.js": "/alon_intu/static/js/main.71ada190.js",
+    "main.js": "/alon_intu/static/js/main.df384d39.js",
     "static/js/453.6873cc97.chunk.js": "/alon_intu/static/js/453.6873cc97.chunk.js",
     "index.html": "/alon_intu/index.html",
     "main.977ed551.css.map": "/alon_intu/static/css/main.977ed551.css.map",
-    "main.71ada190.js.map": "/alon_intu/static/js/main.71ada190.js.map",
+    "main.df384d39.js.map": "/alon_intu/static/js/main.df384d39.js.map",
     "453.6873cc97.chunk.js.map": "/alon_intu/static/js/453.6873cc97.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.977ed551.css",
-    "static/js/main.71ada190.js"
+    "static/js/main.df384d39.js"
   ]
 }
