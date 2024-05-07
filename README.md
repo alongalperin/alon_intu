@@ -29,3 +29,5 @@ Things to improve?
 ```
 
 ```
+
+![alt State Machine Arrows](https://github.com/alongalperin/alon_intu/blob/main/images/state_machine.png)
