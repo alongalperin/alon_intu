@@ -30,7 +30,6 @@ function App() {
 
   return (
     <div className="App">
-      <p>From main</p>
       <LoadButton
         handleClick={handleLoadDataClick}
         stateMachineStatus={currentStateMachine}
