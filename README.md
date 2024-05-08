@@ -32,8 +32,7 @@ Things to improve?
 
 - Using Typescript
 - Using SASS CSS
-- Using MirageJS for backend mock
-- Use better api images
+- Use api with better looking images
 
 #### State Machine explanation
 
